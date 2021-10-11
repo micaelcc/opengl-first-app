@@ -10,10 +10,12 @@ CONFIG += c++11
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    meucanvas.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    meucanvas.h
 
 FORMS += \
     mainwindow.ui
